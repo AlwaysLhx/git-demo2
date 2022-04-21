@@ -28,5 +28,5 @@ elif user_guess < n:
     print("try bigger...")
 else:
     print("bingo,you are right")
-print('the correct result is'+str(n))
+print('the correct result is'+str(n))     1
 此处为创建新分支后修改的
