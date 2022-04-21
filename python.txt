@@ -29,5 +29,3 @@ elif user_guess < n:
 else:
     print("bingo,you are right")
 print('the correct result is'+str(n))
-
-
