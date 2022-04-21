@@ -29,4 +29,4 @@ elif user_guess < n:
 else:
     print("bingo,you are right")
 print('the correct result is'+str(n))
-此处为创建新分支后修改的
+此处为创建新分支后修改的                 2
